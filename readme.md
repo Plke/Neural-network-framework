@@ -14,7 +14,7 @@ performance.py包含了混淆矩阵评价指标
 
 train.py 包含了我们设定的训练结构
 
-感知机.py，hebb.py 包含了感知机算法和hebb学习规则
+感知机.py，hebb.py 包含了感知机算法和hebb学习规则，为独立于神经网络框架的学习规则
 
 search_example.py 包含了自动参数搜索
 
